@@ -22,6 +22,7 @@ public class Main {
         System.out.println("You have remaining "+ remainingAttempts);
         
         if (remainingAttempts == 0) {
+            System.out.println("The secret word is " + secretWord);
             System.out.println("You have 0 remaining attempts left
         }
         
