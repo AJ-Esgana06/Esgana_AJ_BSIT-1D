@@ -18,7 +18,7 @@ public class Main {
         } else {
             System.out.println("Okay");
         } 
-        } remainingAttempts
+        } remainingAttempts--;
         System.out.println("You have remaining "+ remainingAttempts);
         
         if (remainingAttempts == 0) {
