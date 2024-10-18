@@ -29,17 +29,24 @@ public class Main {
     public static void Add(double num1, double num2) {
         double result;
         result = num1 + num2;
+        System.out.println(result);
     }
     public static void Subtract(double num1, double num2) {
         double result;
         result = num1 - num2;
+        System.out.println(result);
+
     }
     public static void Multiplication(double num1, double num2) {
         double result;
         result = num1 * num2;
+        System.out.println(result);
+
     }
     public static void Division(double num1, double num2) {
         double result;
         result = num1 / num2;
+        System.out.println(result);
+
     }
 }
