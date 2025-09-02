@@ -23,5 +23,6 @@ public class Main {
     System.out.println("Age: " + Age);
     System.out.println("Height: " + Height);
     System.out.println("Weight: " + Weight);
+    System.out.println("Name: " + Name);
     }
 }
